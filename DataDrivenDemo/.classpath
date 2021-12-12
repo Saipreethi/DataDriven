@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Srishti/Downloads/selenium-server-standalone-3.141.59 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Automation Software/poi-bin-5.0.0-20210120/poi-5.0.0/poi-scratchpad-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Software/poi-bin-5.0.0-20210120/poi-5.0.0/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Software/poi-bin-5.0.0-20210120/poi-5.0.0/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Software/poi-bin-5.0.0-20210120/poi-5.0.0/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Software/poi-bin-5.0.0-20210120/poi-5.0.0/poi-integration-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Software/poi-bin-5.0.0-20210120/poi-5.0.0/poi-excelant-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Software/poi-bin-5.0.0-20210120/poi-5.0.0/poi-examples-5.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation Software/poi-bin-5.0.0-20210120/poi-5.0.0/poi-5.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Srishti/.p2/pool/plugins/org.testng_7.3.0.r202008060316.jar" sourcepath="C:/Users/Srishti/.p2/pool/plugins/org.testng.source_7.3.0.r202008060316.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
